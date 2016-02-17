@@ -27,3 +27,10 @@ build/Release
 node_modules
 .node_modules
 dist
+distCmd
+
+#webstorm
+.idea/
+.iml
+*.iml
+*.tmp
